@@ -1,0 +1,11 @@
+C:\Users\Merhawi\source\repos\karlstad\karlstad\bin\Debug\karlstad.exe.config
+C:\Users\Merhawi\source\repos\karlstad\karlstad\bin\Debug\karlstad.exe
+C:\Users\Merhawi\source\repos\karlstad\karlstad\bin\Debug\karlstad.pdb
+C:\Users\Merhawi\source\repos\karlstad\karlstad\obj\Debug\karlstad.csprojAssemblyReference.cache
+C:\Users\Merhawi\source\repos\karlstad\karlstad\obj\Debug\karlstad.Properties.Resources.resources
+C:\Users\Merhawi\source\repos\karlstad\karlstad\obj\Debug\karlstad.csproj.GenerateResource.cache
+C:\Users\Merhawi\source\repos\karlstad\karlstad\obj\Debug\karlstad.csproj.CoreCompileInputs.cache
+C:\Users\Merhawi\source\repos\karlstad\karlstad\obj\Debug\karlstad.exe
+C:\Users\Merhawi\source\repos\karlstad\karlstad\obj\Debug\karlstad.pdb
+C:\Users\Merhawi\source\repos\karlstad\karlstad\obj\Debug\karlstad.startaLottaButton.resources
+C:\Users\Merhawi\source\repos\karlstad\karlstad\obj\Debug\karlstad.miniräknare.resources
